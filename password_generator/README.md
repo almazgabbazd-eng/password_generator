@@ -27,3 +27,5 @@
    ```bash
    git clone <ссылка-на-репозиторий>
    cd password_generator
+pip install pyperclip
+python main.py
